@@ -1,0 +1,11 @@
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\bin\Debug\netcoreapp2.0\GItApiTestConsole.deps.json
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\bin\Debug\netcoreapp2.0\GItApiTestConsole.runtimeconfig.json
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\bin\Debug\netcoreapp2.0\GItApiTestConsole.runtimeconfig.dev.json
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\bin\Debug\netcoreapp2.0\GItApiTestConsole.dll
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.AssemblyInfoInputs.cache
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.AssemblyInfo.cs
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\bin\Debug\netcoreapp2.0\GItApiTestConsole.pdb
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.dll
+C:\Users\Haberdash\source\repos\GItApiTestConsole\GItApiTestConsole\obj\Debug\netcoreapp2.0\GItApiTestConsole.pdb
